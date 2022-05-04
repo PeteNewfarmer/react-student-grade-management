@@ -1,0 +1,30 @@
+.input-container .input-label {
+    font-size: 20px;
+}
+
+.btn {
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+    height: 40px;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    background-color: green;
+}
+
+.students-grade-container .student-grade-button {
+    width: 150px;
+    margin-top: 20px;
+}
+
+.input-container .input.error {
+    border-color: red;
+}
+
+.input-container .error-message {
+    font-style: italic;
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
